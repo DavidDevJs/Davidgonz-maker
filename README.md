@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi v I am a Front-end web developer, working with react and currently a member of Platzi Master. writing_hand write to me and I will be happy to help you 
+
 <!--
 **Davidgonz-maker/Davidgonz-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
