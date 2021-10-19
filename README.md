@@ -1,6 +1,7 @@
-### Hi there 👋 I'm David
+### Hi there 👋
 
-
+# I'm passionate about the javascript ecosystem, I understand the whole process of developing software projects; from the analysis and requirements gathering, through the design of SQL and NoSQL databases, and the programming phase both on the backend and frontend side with technologies like Nest js and React js. 
+I love to create software solutions for the change of our societies and organizations.
 
 ![me](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
