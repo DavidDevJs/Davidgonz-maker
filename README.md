@@ -18,7 +18,6 @@
 </a>
 
 
-## 🛠️ My favorite tools
 <br />
 
 ### 👨‍💻 Programming languages
