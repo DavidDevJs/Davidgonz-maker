@@ -9,11 +9,11 @@
 > - Currently member of Platzi Master.
 > - An passionate the javascript ecosystem.
 > - A crypto enthusiast.
-
+<center>
 <a href="https://www.linkedin.com/in/manuel-david-arias-gonz%C3%A1lez-40b9bb1b8/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Davidgonz-maker">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+</center>
