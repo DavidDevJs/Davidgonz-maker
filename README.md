@@ -17,9 +17,9 @@
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
 
 ## 🛠️ My favorite tools
+<br />
 
 ### 👨‍💻 Programming languages
 
