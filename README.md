@@ -6,7 +6,6 @@
 
 ### I am David González
 > - A Tecnologo analysis and development of software.
-> - Currently member of Platzi Master.
 > - An passionate the javascript ecosystem.
 > - A crypto enthusiast.
 
